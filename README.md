@@ -11,7 +11,7 @@
 
 <p id="SQL-course_Certificate" align="center">
 
-<img src="course-images/course-certificate.png"  width="1000"  height="800">
+<img src="course-images/course-certificate.png"  width="600"  height="600">
     
 </p>
 
