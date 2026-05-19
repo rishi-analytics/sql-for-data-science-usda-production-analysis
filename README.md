@@ -44,7 +44,7 @@ The course focused on building structured thinking in querying relational databa
 
 # Final Project – USDA Production Data Analysis (75%)
 Purpose driven project!
-- Checkout the SQL project hands-on implementation on python [here](https://github.com/rishi-analytics/sql-for-data-science-usda-production-analysis/blob/main/notebook/USDA_production_datasets_SQL_final_project.ipynb)
+- Checkout the SQL project hands-on implementation on python [here](https://github.com/rishi-analytics/sql-for-data-science-usda-production-analysis/blob/main/notebook/README.md#project-summary)
 ## Scenario
 
 As a Data Scientist at the USDA, I analyzed multi-year agricultural production datasets across U.S. states, including:
