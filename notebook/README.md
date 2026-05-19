@@ -1,6 +1,6 @@
 # Project Summary
 
-In this project, USDA agricultural production datasets were analyzed using SQL and SQLite within a Python environment. The analysis covered multiple commodities, including milk, cheese, coffee, honey, and yogurt production across U.S. states.
+In this project, USDA agricultural production datasets were analyzed using SQL and SQLite within a Python environment. The analysis covered multiple commodities, including milk, cheese, coffee, honey, and yogurt production across U.S. states. You can check the code on [here].(https://github.com/rishi-analytics/sql-for-data-science-usda-production-analysis/blob/main/notebook/USDA_production_datasets_SQL_final_project.ipynb)
 
 ## Workflow
 
